@@ -43,6 +43,8 @@ public class FirstActivity extends AppCompatActivity {
     // feature1分支
     private String feature1 = "feature1";
 
+    private String mode = "MODE";
+
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 //        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
