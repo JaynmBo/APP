@@ -46,6 +46,7 @@ public class FirstActivity extends AppCompatActivity {
     private String mode = "MODE";
     
     private String mode1 = "MODE1";
+    private String dev1 = "dev1";
 
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
