@@ -38,6 +38,10 @@ public class FirstActivity extends AppCompatActivity {
     private List<ResolveInfo> apps;
 
     private GridView apps_list;
+    // master分支
+    private String master = "master";
+    // feature1分支
+    private String feature1 = "feature1";
 
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
